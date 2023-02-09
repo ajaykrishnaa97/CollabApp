@@ -1,0 +1,27 @@
+
+
+/* 
+.field span:hover{
+	background-color: green;
+	border: thin solid green;
+	color: #fff;
+} */
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.deleteBtn{
+	display: block;
+	font-size: 16px;
+	background-color: #5b8ebf;
+	border: thin solid #d5e4d4;
+	cursor: pointer;
+	color: #fff;
+}
+
+button:active{
+	background-color: #aedea6;
+	color: #000;
+} 
+
